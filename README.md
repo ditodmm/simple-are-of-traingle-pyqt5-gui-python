@@ -1,0 +1,1 @@
+# simple-are-of-traingle-pyqt5-gui-python
